@@ -23,7 +23,7 @@ def generate_text(project_id: str, location: str) -> str:
 
 # --------  Important: Variable declaration  --------
 
-project_id = "qwiklabs-gcp-02-fd38da6f411d"
+project_id = "#"
 location = "europe-west1"
 
 #  --------   Call the Function  --------
